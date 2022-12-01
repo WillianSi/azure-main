@@ -1,0 +1,63 @@
+.text {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.table {
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.descri {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.card {
+    padding: 1px;
+    margin: auto;
+    display: block;
+}
+
+.espac {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.cat {
+    color: #fff;
+    text-align: center;
+}
+
+button {
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 0.8rem 1.5rem;
+    background: linear-gradient(
+      90deg,
+      rgba(138, 36, 31, 0.726) 0%,
+      rgb(247, 40, 3) 100%
+    );
+    border-radius: 4rem;
+    border: none;
+  }
+  
+button:hover {
+    background: linear-gradient(
+      90deg,
+      rgb(247, 40, 3) 0%,
+      rgba(138, 36, 31, 0.726) 100%
+    );
+}
+
+.input-group-text{
+    color: #fff;
+    font-weight: bold;
+    background-color: rgba(138, 36, 31, 0.726);
+}
